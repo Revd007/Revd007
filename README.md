@@ -64,7 +64,7 @@
 
 <div align="center">
   
-  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=YOURUSERNAME.YOURUSERNAME)](https://github.com/YOURUSERNAME)
+  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=revd007.revd007)](https://github.com/revd007)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
   
