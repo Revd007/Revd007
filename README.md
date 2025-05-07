@@ -4,7 +4,7 @@
   
   ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Engineer%20&%20Network%20Specialist&fontSize=40&fontAlignY=35&animation=fadeIn)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Network+Security+Specialist;System+Administrator;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Network+Security+Specialist;System+Administrator;AI+%26+ML+Engineer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
   
 </div>
 
